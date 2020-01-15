@@ -1,0 +1,11 @@
+C:\Users\Daniel\Documents\Visual Studio 2019\Projects\HEIFConverterGUI\HEIFConverter\HEIFConverter\bin\Release\HEIFConverter.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2019\Projects\HEIFConverterGUI\HEIFConverter\HEIFConverter\bin\Release\HEIFConverter.exe
+C:\Users\Daniel\Documents\Visual Studio 2019\Projects\HEIFConverterGUI\HEIFConverter\HEIFConverter\bin\Release\HEIFConverter.pdb
+C:\Users\Daniel\Documents\Visual Studio 2019\Projects\HEIFConverterGUI\HEIFConverter\HEIFConverter\bin\Release\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Daniel\Documents\Visual Studio 2019\Projects\HEIFConverterGUI\HEIFConverter\HEIFConverter\bin\Release\Magick.NET-Q16-AnyCPU.xml
+C:\Users\Daniel\Documents\Visual Studio 2019\Projects\HEIFConverterGUI\HEIFConverter\HEIFConverter\obj\Release\HEIFConverter.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2019\Projects\HEIFConverterGUI\HEIFConverter\HEIFConverter\obj\Release\HEIFConverter.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2019\Projects\HEIFConverterGUI\HEIFConverter\HEIFConverter\obj\Release\HEIFConverter.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\Visual Studio 2019\Projects\HEIFConverterGUI\HEIFConverter\HEIFConverter\obj\Release\HEIFConverter.csproj.CopyComplete
+C:\Users\Daniel\Documents\Visual Studio 2019\Projects\HEIFConverterGUI\HEIFConverter\HEIFConverter\obj\Release\HEIFConverter.exe
+C:\Users\Daniel\Documents\Visual Studio 2019\Projects\HEIFConverterGUI\HEIFConverter\HEIFConverter\obj\Release\HEIFConverter.pdb
