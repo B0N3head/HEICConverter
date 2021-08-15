@@ -1,2 +1,2 @@
 # HEIFConverter
-Convert any HEIF / HEIC file to .JPEG!
+Convert any HEIC file to .JPG/PNG!

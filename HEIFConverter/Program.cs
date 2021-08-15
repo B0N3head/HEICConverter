@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using ImageMagick;
 using System.IO;
 
-namespace HEIFConverter
+namespace HEICConverter
 {
     static class Program
     {
