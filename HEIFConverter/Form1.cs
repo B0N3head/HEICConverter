@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
@@ -167,7 +167,7 @@ namespace HEICConverter
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/danieljlawson/HEIFConverter");
+            System.Diagnostics.Process.Start("https://github.com/B0N3head/HEICConverter"); //Deleted profile
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
